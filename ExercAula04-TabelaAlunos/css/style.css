@@ -1,0 +1,15 @@
+table{
+    border:black 2px solid;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+td,th{
+    border:black 2px solid;
+    padding:5px 10px 5px 10px;
+    text-align: center;
+}
+
+.v{color: red;}
+
+.a{color: blue;}
